@@ -1,0 +1,13 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1672286368;s:6:"expire";i:1672372768;s:4:"tags";s:46:"ca3_BLOCK_HTML,ca3_CAT_P_13,ca3_CAT_P,ca3_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:18:{s:44:"5C8s5o8KK0c4ZSM5LpyyrjaFAguYXxgWFf+FdYWhiZg=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"/LOHshLF9iPXUFqvCcsSqnmsnpSOkl7XGqdCzpiTato=";s:6:"sha256";s:44:"J16ArVp/qkXS3U4BoIEa8H6m5xqDRBM6tLXXVZ5a6fI=";s:6:"sha256";s:44:"H5Fcf0opLiOj4jqf733HTOA6/jPuhBVT2OtuyhWJFx4=";s:6:"sha256";s:44:"izMsnD78duN0xIhA6a8OdECLzSb20dBFbbwQJI+NRVM=";s:6:"sha256";s:44:"aY1DMZMUu2wsZOHAUyE9iEbHYPcw4znMPgnLjj1CNco=";s:6:"sha256";s:44:"VLsoKKy0yewK8wnsPnXBFVZ+pkWOMlYk9IA8eucZMO8=";s:6:"sha256";s:44:"OXOLJFnz5jCks4kM0W0WS/ok9H1GMI6D4HgB9mtUUjg=";s:6:"sha256";s:44:"xHxAn0hrVImbTdCZh7l8TatNRfuCJ2lbKh8QeghwxFQ=";s:6:"sha256";s:44:"POs05BpXySH4hkjjoFFZ/j4oeXBm7ZS/mRYd5tmAyO0=";s:6:"sha256";s:44:"M4AtMOQV603Yg2axk1lGkSCjcoJvIBqOXU58n2wb1+k=";s:6:"sha256";s:44:"vjBryRBwa1X8rELBa+c+mslTdpfe9FttA+AQ+aLDN1c=";s:6:"sha256";s:44:"NEtzjAj+8hd+Ln0ZM3IKzrUMeIoRxI3hitZ5TzUPOpw=";s:6:"sha256";s:44:"g9So6CfVah5QiEmD0ZuVF9M6Ev2JDPDtweIG5MGwYoc=";s:6:"sha256";s:44:"Qfy2PKbb48u2WG2DEmComNWsdDADoZS3+Kit3zajsPI=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:12:{s:44:"pUnqyXBSJefIaa+Y5fZkfwoH17ADZshtaqnodMWMQQ0=";s:6:"sha256";s:44:"nijJADbJURWOJ8XyuYL5pQYxCgyJSVNyiQapaYObWtU=";s:6:"sha256";s:44:"AY0JNw1Be5ICRElGOLGpI2YQlJpOF8/B/0sWxUjWIJE=";s:6:"sha256";s:44:"tNmjbDGqyGERnzf7YpoeaxJNMndE+pkm4Hv+obXeIhM=";s:6:"sha256";s:44:"eKVPx4w2YEXMu/stAFt8MDTTUx7B3oyYE8xg33Sln0c=";s:6:"sha256";s:44:"3Oqo4gq0xmG7UcujI6fxFZ4uJ1O4tGGN+LvYqoXrpnU=";s:6:"sha256";s:44:"ctkMhVqoxJCIGuiDTiwW8xpXIFESV8qzkQb34H9muFI=";s:6:"sha256";s:44:"XirMFoWdTM8BSfh7cRnVfXioJ/omwDv1uifQFy/jPnI=";s:6:"sha256";s:44:"28ownrUciZyCLE+BR9f2wPT6ecysZcl8Zvt1eFVIDUg=";s:6:"sha256";s:44:"Kt3+V1bXhMk/2j9zJ3BlHpcLN8WL6/LVklE8fQjH3A0=";s:6:"sha256";s:44:"DAZjfX1U/swwTVOdbbzEo3jYqF6W40tihZ5c4g0QWhc=";s:6:"sha256";s:44:"Zcos0POxvXUpaE96bb01mERjhLk4Hl3zADGUHMEGEvk=";s:6:"sha256";}}}s:4:"html";s:426:"<div class="price-box price-final_price" data-role="priceBox" data-product-id="13" data-price-box="product-id-13">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="product-price-13"                data-price-amount="8000000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">8.000.000,00 ₫</span></span>
+        </span>
+
+</div>";}
